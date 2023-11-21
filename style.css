@@ -63,4 +63,17 @@ header.container{
 }
 .links a{
     color: black;
+    margin-left: 4.5rem;
+    display:inline-block;
+
+}
+
+.btn{
+    display: inline-block;
+    padding: .9rem 1.9rem;
+    color:#f1f8fc;
+    background-color: #2a9427;
+    border-radius: 16px;
+    text-transform: capitalize;
+    
 }
